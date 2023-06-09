@@ -1,0 +1,65 @@
+.img{
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.ratings{
+    color:  #1a9cb7;
+    text-decoration: none;
+}
+.ratings:hover{
+    text-decoration: underline;
+}
+
+.fa-heart{
+    color: gray;
+   cursor: pointer;
+}
+.heart{
+    color: red;
+}
+.fa-solid{
+    color: #FFCF00;
+}
+
+.price{
+    color: #f85606;
+    font-weight: 400;
+
+}
+.daraz{
+    color: #f85606;
+    text-align: center;
+}
+.quantity span{
+    margin-right: 40px;
+}
+.quantity input{
+    width: 50px;
+    border: none;
+    background-color: rgb(249, 249, 249);
+    padding: 5px 0;
+    text-align: center;
+}
+.quantity button{
+    border: none;
+    padding: 5px 10px;
+}
+
+
+.btns button{
+    color: #fff;
+    padding: 10px 50px;
+    
+    text-align: center;
+    margin-right: 10px;
+}
+
+.buy{
+    border: 1px solid #2abbe8;
+    background: #2abbe8;
+}
+.cart{
+    border: 1px solid #f57224;
+    background: #f57224;
+}
